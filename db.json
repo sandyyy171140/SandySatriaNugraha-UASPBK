@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "satria",
+      "password": "satria123",
+      "name": "sandy"
+    }
+  ],
+  "habits": [
+    {
+      "id": "1",
+      "title": "Minum Air 8 Gelas",
+      "category": "Kesehatan",
+      "userId": 1
+    },
+    {
+      "id": "2",
+      "title": "Makan Protein",
+      "category": "Kesehatan",
+      "userId": 1
+    },
+    {
+      "id": "3",
+      "title": "Gym",
+      "category": "Kebugaran",
+      "userId": 1
+    }
+  ],
+  "logs": [
+    {
+      "id": "e1a1",
+      "userId": 1,
+      "habitId": 1,
+      "date": "2025-07-09",
+      "completed": true
+    },
+    {
+      "id": "ae83",
+      "userId": 1,
+      "habitId": 2,
+      "date": "2025-07-09",
+      "completed": true
+    },
+    {
+      "id": "309e",
+      "userId": 1,
+      "habitId": 1,
+      "date": "2025-07-09",
+      "completed": true
+    },
+    {
+      "id": "b54d",
+      "userId": 1,
+      "habitId": 2,
+      "date": "2025-07-09",
+      "completed": true
+    },
+    {
+      "id": "80c0",
+      "userId": 1,
+      "habitId": 3,
+      "date": "2025-07-09",
+      "completed": true
+    }
+  ]
+}
